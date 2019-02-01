@@ -2,7 +2,7 @@
 
 This is a demo Flutter Project using animations.
 
-![](file:///Users/andremenegon/Desktop/2019-02-01%2008.46.03.gif)
+![GIF](https://i.imgur.com/W92QdrO.gif)
 
 ## Getting Started
 
